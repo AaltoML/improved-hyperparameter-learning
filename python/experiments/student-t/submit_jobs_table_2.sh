@@ -1,0 +1,6 @@
+sbatch slurmscript_table_211.sh
+sbatch slurmscript_table_212.sh
+sbatch slurmscript_table_221.sh
+sbatch slurmscript_table_222.sh
+sbatch slurmscript_table_231.sh
+sbatch slurmscript_table_232.sh
